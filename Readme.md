@@ -20,4 +20,4 @@ website design templates using HTML CSS and Javascript only
 ***
 # Screenshots
 
-![alt text](https://github.com/ashgole/HTML-CSS-Design-Template/blob/main/template-1/screenshot/all.png)
+![alt text](https://github.com/ashgole/HTML-CSS-Design-Template/blob/main/screenshot/1.png)
