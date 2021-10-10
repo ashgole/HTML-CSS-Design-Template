@@ -15,7 +15,7 @@ website design templates using HTML CSS and Javascript only
 ***
 # Tags
 
-`website` `template` `HTML` `CSS` `Resposive` `website`
+`HTML` `CSS` `Resposive` `website` `template` 
 
 ***
 # Screenshots
